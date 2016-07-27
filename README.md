@@ -1,5 +1,5 @@
 # VBSDKUploadFileForTencent
-
+## 这个是针对VB使用腾讯云的对象存储服务的上传文件接口的
 ### 使用步骤
 >1. 将TencentUpload.vb文件引入到自己的VB项目中
 
